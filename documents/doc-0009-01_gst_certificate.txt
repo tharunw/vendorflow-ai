@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Rohan Das Consulting Limited
+Tax identifier: 29ABCCA0010F1ZE
+NOTICE: Fictional test fixture; not an official certificate.

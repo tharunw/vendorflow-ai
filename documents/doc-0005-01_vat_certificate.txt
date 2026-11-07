@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Dev Kapoor Technologies Private Limited
+Tax identifier: GB100000005
+NOTICE: Fictional test fixture; not an official certificate.

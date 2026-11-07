@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Rohan Das Consulting Limited
+Account reference: TEST-0009-1009
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

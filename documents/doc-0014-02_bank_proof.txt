@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Kiara Singh Consulting Limited
+Account reference: TEST-0014-1014
+Bank country: AE
+NOTICE: Fictional test fixture; not a real bank statement.

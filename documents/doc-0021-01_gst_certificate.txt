@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Ayaan Sharma Trading Solutions LLP
+Tax identifier: 29ABCCA0022F1ZA
+NOTICE: Fictional test fixture; not an official certificate.

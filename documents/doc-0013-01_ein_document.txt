@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: EIN_DOCUMENT
+Registered entity: Vivaan Menon Digital Systems LLC
+Tax identifier: 33-1000013
+NOTICE: Fictional test fixture; not an official certificate.

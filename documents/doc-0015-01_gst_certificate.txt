@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Aditya Gupta Technologies Private Limited
+Tax identifier: 29ABCCA0016F1Z8
+NOTICE: Fictional test fixture; not an official certificate.

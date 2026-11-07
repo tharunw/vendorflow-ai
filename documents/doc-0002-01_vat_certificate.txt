@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Isha Reddy Industrial Services Private Limited
+Tax identifier: GB100000002
+NOTICE: Fictional test fixture; not an official certificate.

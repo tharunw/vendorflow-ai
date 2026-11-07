@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Krish Sethi Digital Systems LLC
+Account reference: TEST-0023-1023
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

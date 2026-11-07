@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Aditya Gupta Technology Services Private Ltd
+Account reference: TEST-0015-1015
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Sara Mishra Technologies Private Limited
+Tax identifier: GB100000020
+NOTICE: Fictional test fixture; not an official certificate.

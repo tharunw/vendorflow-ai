@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: EIN_DOCUMENT
+Registered entity: Aditi Sen Digital Systems LLC
+Tax identifier: 48-1000028
+NOTICE: Fictional test fixture; not an official certificate.

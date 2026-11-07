@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Zoya Ali Trading Solutions LLP
+Tax identifier: GB100000026
+NOTICE: Fictional test fixture; not an official certificate.

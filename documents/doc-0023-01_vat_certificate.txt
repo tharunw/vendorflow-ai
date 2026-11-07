@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Krish Sethi Digital Systems LLC
+Tax identifier: GB100000023
+NOTICE: Fictional test fixture; not an official certificate.

@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Anaya Rao Trading Solutions LLP
+Account reference: TEST-0006-1006
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

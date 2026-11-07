@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Ishaan Verma Consulting Limited
+Tax identifier: 29ABCCA0020F1ZC
+NOTICE: Fictional test fixture; not an official certificate.

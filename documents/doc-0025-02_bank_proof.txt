@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Om Bhat Technologies Private Limited
+Account reference: TEST-0025-1025
+Bank country: US
+NOTICE: Fictional test fixture; not a real bank statement.

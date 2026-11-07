@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: EIN_DOCUMENT
+Registered entity: Sana Khan Technologies Private Limited
+Tax identifier: 30-1000010
+NOTICE: Fictional test fixture; not an official certificate.

@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Ishaan Verma Consulting Limited
+Account reference: TEST-0019-1019
+Bank country: AE
+NOTICE: Fictional test fixture; not a real bank statement.

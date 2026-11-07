@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Kabir Shah Digital Systems LLC
+Tax identifier: 29ABCCA0004F1ZC
+NOTICE: Fictional test fixture; not an official certificate.

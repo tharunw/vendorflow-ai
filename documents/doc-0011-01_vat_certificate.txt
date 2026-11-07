@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Arjun Pillai Trading Solutions LLP
+Tax identifier: GB100000011
+NOTICE: Fictional test fixture; not an official certificate.

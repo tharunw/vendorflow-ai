@@ -1,0 +1,22 @@
+{
+  "dataset_name": "VendorFlow AI synthetic onboarding benchmark",
+  "seed": 42,
+  "total_cases": 30,
+  "scenario_counts": {
+    "CROSS_COUNTRY": 4,
+    "NAME_MISMATCH": 5,
+    "INCOMPLETE": 5,
+    "CONFIRMED_SYNTHETIC_FRAUD": 2,
+    "EXISTING_BANK_CHANGE": 4,
+    "CLEAN": 8,
+    "BAD_DOCUMENT": 2
+  },
+  "expected_decision_counts": {
+    "PENDING": 20,
+    "REJECTED": 2,
+    "APPROVED": 8
+  },
+  "documents_generated": 60,
+  "synthetic_only": true,
+  "warning": "Fictional test fixtures; not real businesses, bank records, tax registrations, or official verification."
+}

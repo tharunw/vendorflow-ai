@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Kabir Shah Digital Systems LLC
+Account reference: TEST-0003-1003
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

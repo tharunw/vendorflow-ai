@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Arjun Pillai Trading Solutions LLP
+Account reference: TEST-0011-1011
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

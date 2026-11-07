@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Manav Desai Industrial Services Private Limited
+Account reference: NEW-0027-7027
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

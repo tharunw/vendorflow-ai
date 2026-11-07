@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Diya Joshi Industrial Services Private Limited
+Tax identifier: 29ABCCA0013F1ZB
+NOTICE: Fictional test fixture; not an official certificate.

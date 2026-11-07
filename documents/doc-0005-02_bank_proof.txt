@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Dev Kapoor Technologies Private Limited
+Account reference: NEW-0005-7005
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

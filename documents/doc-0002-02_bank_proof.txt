@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Isha Reddy Industrial Services Private Ltd
+Account reference: TEST-0002-1002
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

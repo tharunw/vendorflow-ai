@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Neil Patel Industrial Services Private Limited
+Account reference: TEST-0007-1007
+Bank country: US
+NOTICE: Fictional test fixture; not a real bank statement.

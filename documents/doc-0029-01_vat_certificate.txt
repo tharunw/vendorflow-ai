@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Yash Kumar Consulting Limited
+Tax identifier: GB100000029
+NOTICE: Fictional test fixture; not an official certificate.

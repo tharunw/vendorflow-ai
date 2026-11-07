@@ -1,0 +1,31 @@
+case_id,scenario,expected_decision,predicted_decision,correct,risk_score,lifecycle_status,risk_flags,pending_reasons
+CASE-0001,CROSS_COUNTRY,PENDING,PENDING,True,28,OPEN,R011; R009; R008,"Free-mail provider detected; this is a contextual signal, not proof of fraud. | Bank country differs from business country; cross-border banking may be legitimate but requires review. | Bank country is not supported for bank identifier validation."
+CASE-0002,NAME_MISMATCH,PENDING,PENDING,True,15,OPEN,R007,Name similarity is 86.96%; verify supporting evidence.
+CASE-0003,INCOMPLETE,PENDING,PENDING,True,10,OPEN,R001,Missing fields: vendor.business_address
+CASE-0004,CONFIRMED_SYNTHETIC_FRAUD,REJECTED,REJECTED,True,15,CLOSED,R007,
+CASE-0005,EXISTING_BANK_CHANGE,PENDING,PENDING,True,25,OPEN,R012,Existing vendor bank details changed; independent confirmation is required.
+CASE-0006,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0007,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0008,INCOMPLETE,PENDING,PENDING,True,20,OPEN,R001; R004,Missing fields: tax.tax_id | Tax identifier is missing; vendor can provide it.
+CASE-0009,INCOMPLETE,PENDING,PENDING,True,10,OPEN,R001,Missing fields: vendor.business_address
+CASE-0010,NAME_MISMATCH,PENDING,PENDING,True,15,OPEN,R007,Name similarity is 83.02%; verify supporting evidence.
+CASE-0011,INCOMPLETE,PENDING,PENDING,True,10,OPEN,R001,Missing fields: vendor.business_address
+CASE-0012,EXISTING_BANK_CHANGE,PENDING,PENDING,True,25,OPEN,R012,Existing vendor bank details changed; independent confirmation is required.
+CASE-0013,BAD_DOCUMENT,PENDING,PENDING,True,10,OPEN,R014,One or more documents need replacement; other case data is retained.
+CASE-0014,CROSS_COUNTRY,PENDING,PENDING,True,28,OPEN,R011; R009; R008,"Free-mail provider detected; this is a contextual signal, not proof of fraud. | Bank country differs from business country; cross-border banking may be legitimate but requires review. | Bank country is not supported for bank identifier validation."
+CASE-0015,NAME_MISMATCH,PENDING,PENDING,True,15,OPEN,R007,Name similarity is 84.75%; verify supporting evidence.
+CASE-0016,CONFIRMED_SYNTHETIC_FRAUD,REJECTED,REJECTED,True,15,CLOSED,R007,
+CASE-0017,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0018,NAME_MISMATCH,PENDING,PENDING,True,15,OPEN,R007,Name similarity is 86.15%; verify supporting evidence.
+CASE-0019,CROSS_COUNTRY,PENDING,PENDING,True,28,OPEN,R011; R009; R008,"Free-mail provider detected; this is a contextual signal, not proof of fraud. | Bank country differs from business country; cross-border banking may be legitimate but requires review. | Bank country is not supported for bank identifier validation."
+CASE-0020,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0021,NAME_MISMATCH,PENDING,PENDING,True,15,OPEN,R007,Name similarity is 86.96%; verify supporting evidence.
+CASE-0022,BAD_DOCUMENT,PENDING,PENDING,True,10,OPEN,R014,One or more documents need replacement; other case data is retained.
+CASE-0023,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0024,EXISTING_BANK_CHANGE,PENDING,PENDING,True,25,OPEN,R012,Existing vendor bank details changed; independent confirmation is required.
+CASE-0025,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0026,INCOMPLETE,PENDING,PENDING,True,20,OPEN,R001; R004,Missing fields: tax.tax_id | Tax identifier is missing; vendor can provide it.
+CASE-0027,EXISTING_BANK_CHANGE,PENDING,PENDING,True,25,OPEN,R012,Existing vendor bank details changed; independent confirmation is required.
+CASE-0028,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0029,CLEAN,APPROVED,APPROVED,True,0,CLOSED,,
+CASE-0030,CROSS_COUNTRY,PENDING,PENDING,True,28,OPEN,R011; R009; R008,"Free-mail provider detected; this is a contextual signal, not proof of fraud. | Bank country differs from business country; cross-border banking may be legitimate but requires review. | Bank country is not supported for bank identifier validation."

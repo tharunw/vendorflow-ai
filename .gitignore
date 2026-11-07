@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local database and generated runtime data
+*.db
+*.sqlite
+*.sqlite3
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
+# Temporary outputs
+*.log

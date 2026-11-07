@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: EIN_DOCUMENT
+Registered entity: Om Bhat Technologies Private Limited
+Tax identifier: 45-1000025
+NOTICE: Fictional test fixture; not an official certificate.

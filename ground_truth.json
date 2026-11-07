@@ -1,0 +1,354 @@
+[
+  {
+    "case_id": "CASE-0001",
+    "vendor_id": "VND-0001",
+    "scenario": "CROSS_COUNTRY",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_COUNTRY_MISMATCH",
+      "FREE_MAIL_DOMAIN"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Country, tax registration, bank country and email domain are inconsistent; request clarification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0002",
+    "vendor_id": "VND-0002",
+    "scenario": "NAME_MISMATCH",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_HOLDER_NAME_MISMATCH"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Bank account holder differs from the submitted legal entity name; request evidence or review.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0003",
+    "vendor_id": "VND-0003",
+    "scenario": "INCOMPLETE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "MISSING_BUSINESS_ADDRESS"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Required information is missing and can be supplied by the vendor.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0004",
+    "vendor_id": "VND-0004",
+    "scenario": "CONFIRMED_SYNTHETIC_FRAUD",
+    "expected_decision": "REJECTED",
+    "expected_flags": [
+      "CONFIRMED_FABRICATED_DOCUMENT"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Ground-truth fixture explicitly labels the submitted document as fabricated.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0005",
+    "vendor_id": "VND-0005",
+    "scenario": "EXISTING_BANK_CHANGE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "EXISTING_VENDOR_BANK_CHANGE",
+      "INDEPENDENT_CONFIRMATION_REQUIRED"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Existing vendor payment details changed; hold for independent verification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0006",
+    "vendor_id": "VND-0006",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0007",
+    "vendor_id": "VND-0007",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0008",
+    "vendor_id": "VND-0008",
+    "scenario": "INCOMPLETE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "MISSING_TAX_ID"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Required information is missing and can be supplied by the vendor.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0009",
+    "vendor_id": "VND-0009",
+    "scenario": "INCOMPLETE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "MISSING_BUSINESS_ADDRESS"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Required information is missing and can be supplied by the vendor.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0010",
+    "vendor_id": "VND-0010",
+    "scenario": "NAME_MISMATCH",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_HOLDER_NAME_MISMATCH"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Bank account holder differs from the submitted legal entity name; request evidence or review.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0011",
+    "vendor_id": "VND-0011",
+    "scenario": "INCOMPLETE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "MISSING_BUSINESS_ADDRESS"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Required information is missing and can be supplied by the vendor.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0012",
+    "vendor_id": "VND-0012",
+    "scenario": "EXISTING_BANK_CHANGE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "EXISTING_VENDOR_BANK_CHANGE",
+      "INDEPENDENT_CONFIRMATION_REQUIRED"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Existing vendor payment details changed; hold for independent verification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0013",
+    "vendor_id": "VND-0013",
+    "scenario": "BAD_DOCUMENT",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "DOCUMENT_UNREADABLE_OR_WRONG_TYPE"
+    ],
+    "expected_document_status": "REJECTED",
+    "expected_reason": "One document is unusable; request replacement while keeping the case open.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0014",
+    "vendor_id": "VND-0014",
+    "scenario": "CROSS_COUNTRY",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_COUNTRY_MISMATCH",
+      "FREE_MAIL_DOMAIN"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Country, tax registration, bank country and email domain are inconsistent; request clarification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0015",
+    "vendor_id": "VND-0015",
+    "scenario": "NAME_MISMATCH",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_HOLDER_NAME_MISMATCH"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Bank account holder differs from the submitted legal entity name; request evidence or review.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0016",
+    "vendor_id": "VND-0016",
+    "scenario": "CONFIRMED_SYNTHETIC_FRAUD",
+    "expected_decision": "REJECTED",
+    "expected_flags": [
+      "CONFIRMED_FABRICATED_DOCUMENT"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Ground-truth fixture explicitly labels the submitted document as fabricated.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0017",
+    "vendor_id": "VND-0017",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0018",
+    "vendor_id": "VND-0018",
+    "scenario": "NAME_MISMATCH",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_HOLDER_NAME_MISMATCH"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Bank account holder differs from the submitted legal entity name; request evidence or review.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0019",
+    "vendor_id": "VND-0019",
+    "scenario": "CROSS_COUNTRY",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_COUNTRY_MISMATCH",
+      "FREE_MAIL_DOMAIN"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Country, tax registration, bank country and email domain are inconsistent; request clarification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0020",
+    "vendor_id": "VND-0020",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0021",
+    "vendor_id": "VND-0021",
+    "scenario": "NAME_MISMATCH",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_HOLDER_NAME_MISMATCH"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Bank account holder differs from the submitted legal entity name; request evidence or review.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0022",
+    "vendor_id": "VND-0022",
+    "scenario": "BAD_DOCUMENT",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "DOCUMENT_UNREADABLE_OR_WRONG_TYPE"
+    ],
+    "expected_document_status": "REJECTED",
+    "expected_reason": "One document is unusable; request replacement while keeping the case open.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0023",
+    "vendor_id": "VND-0023",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0024",
+    "vendor_id": "VND-0024",
+    "scenario": "EXISTING_BANK_CHANGE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "EXISTING_VENDOR_BANK_CHANGE",
+      "INDEPENDENT_CONFIRMATION_REQUIRED"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Existing vendor payment details changed; hold for independent verification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0025",
+    "vendor_id": "VND-0025",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0026",
+    "vendor_id": "VND-0026",
+    "scenario": "INCOMPLETE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "MISSING_TAX_ID"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Required information is missing and can be supplied by the vendor.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0027",
+    "vendor_id": "VND-0027",
+    "scenario": "EXISTING_BANK_CHANGE",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "EXISTING_VENDOR_BANK_CHANGE",
+      "INDEPENDENT_CONFIRMATION_REQUIRED"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Existing vendor payment details changed; hold for independent verification.",
+    "is_touchless_eligible": false
+  },
+  {
+    "case_id": "CASE-0028",
+    "vendor_id": "VND-0028",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0029",
+    "vendor_id": "VND-0029",
+    "scenario": "CLEAN",
+    "expected_decision": "APPROVED",
+    "expected_flags": [],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "All synthetic benchmark checks are expected to pass.",
+    "is_touchless_eligible": true
+  },
+  {
+    "case_id": "CASE-0030",
+    "vendor_id": "VND-0030",
+    "scenario": "CROSS_COUNTRY",
+    "expected_decision": "PENDING",
+    "expected_flags": [
+      "BANK_COUNTRY_MISMATCH",
+      "FREE_MAIL_DOMAIN"
+    ],
+    "expected_document_status": "ACCEPTED",
+    "expected_reason": "Country, tax registration, bank country and email domain are inconsistent; request clarification.",
+    "is_touchless_eligible": false
+  }
+]

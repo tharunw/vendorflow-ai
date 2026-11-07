@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Ayaan Sharma Trading Solutions LLP
+Account reference: TEST-0021-1021
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

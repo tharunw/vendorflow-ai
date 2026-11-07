@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Yash Kumar Consulting Limited
+Account reference: TEST-0029-1029
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

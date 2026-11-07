@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Diya Joshi Industrial Services Private Limited
+Account reference: NEW-0012-7012
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

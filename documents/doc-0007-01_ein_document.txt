@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: EIN_DOCUMENT
+Registered entity: Neil Patel Industrial Services Private Limited
+Tax identifier: 27-1000007
+NOTICE: Fictional test fixture; not an official certificate.

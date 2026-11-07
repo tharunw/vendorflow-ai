@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Myra Bose Trading Solutions LLP
+Account reference: TEST-0016-1016
+Bank country: US
+NOTICE: Fictional test fixture; not a real bank statement.

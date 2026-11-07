@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: VAT_CERTIFICATE
+Registered entity: Reyansh Kulkarni Industrial Services Private Limited
+Tax identifier: GB100000017
+NOTICE: Fictional test fixture; not an official certificate.

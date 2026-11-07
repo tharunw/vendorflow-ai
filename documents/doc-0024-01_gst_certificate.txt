@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Riya Chawla Consulting Limited
+Tax identifier: 29ABCCA0025F1Z7
+NOTICE: Fictional test fixture; not an official certificate.

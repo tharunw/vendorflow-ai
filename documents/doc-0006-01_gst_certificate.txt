@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Anaya Rao Trading Solutions LLP
+Tax identifier: 29ABCCA0007F1Z9
+NOTICE: Fictional test fixture; not an official certificate.

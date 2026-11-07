@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Aditi Sen Digital Systems LLC
+Account reference: TEST-0028-1028
+Bank country: US
+NOTICE: Fictional test fixture; not a real bank statement.

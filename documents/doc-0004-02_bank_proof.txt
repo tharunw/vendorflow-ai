@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Mira Nair Consulting Limited
+Account reference: TEST-0004-1004
+Bank country: US
+NOTICE: Fictional test fixture; not a real bank statement.

@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Riya Chawla Consulting Limited
+Account reference: NEW-0024-7024
+Bank country: IN
+NOTICE: Fictional test fixture; not a real bank statement.

@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Zoya Ali Trading Solutions LLP
+Account reference: TEST-0026-1026
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

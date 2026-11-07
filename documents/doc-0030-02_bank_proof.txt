@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Leela Fernandes Technologies Private Limited
+Account reference: TEST-0030-1030
+Bank country: AE
+NOTICE: Fictional test fixture; not a real bank statement.

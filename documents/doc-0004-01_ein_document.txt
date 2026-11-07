@@ -1,0 +1,6 @@
+SYNTHETIC TEST DOCUMENT
+Document type: EIN_DOCUMENT
+Registered entity: Fictional Shell Entity 4
+Tax identifier: 24-1000004
+NOTICE: Fictional test fixture; not an official certificate.
+BENCHMARK_LABEL: CONFIRMED_FABRICATED_DOCUMENT

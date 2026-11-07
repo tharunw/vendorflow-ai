@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Reyansh Kulkarni Industrial Services Private Limited
+Account reference: TEST-0017-1017
+Bank country: GB
+NOTICE: Fictional test fixture; not a real bank statement.

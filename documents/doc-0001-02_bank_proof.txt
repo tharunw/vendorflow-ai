@@ -1,0 +1,5 @@
+SYNTHETIC BANK PROOF
+Account holder: Aarav Mehta Trading Solutions LLP
+Account reference: TEST-0001-1001
+Bank country: AE
+NOTICE: Fictional test fixture; not a real bank statement.

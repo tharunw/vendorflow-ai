@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT
+Document type: GST_CERTIFICATE
+Registered entity: Aarav Mehta Trading Solutions LLP
+Tax identifier: 29ABCCA0002F1ZE
+NOTICE: Fictional test fixture; not an official certificate.
